@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.lang3.builder.ReflectionToStringBuilderTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 11, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in org.apache.commons.lang3.builder.ReflectionToStringBuilderTest
+test_isAppendTransients  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_isAppendTransients(ReflectionToStringBuilderTest.java:37)
+
+test_getExcludeFieldNames  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_getExcludeFieldNames(ReflectionToStringBuilderTest.java:25)
+
+test_isAppendStatics  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_isAppendStatics(ReflectionToStringBuilderTest.java:31)
+
+test_reflectionAppendArray  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_reflectionAppendArray(ReflectionToStringBuilderTest.java:43)
+
+test_setAppendTransients  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_setAppendTransients(ReflectionToStringBuilderTest.java:55)
+
+test_toStringExclude  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_toStringExclude(ReflectionToStringBuilderTest.java:14)
+
+test_setAppendStatics  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_setAppendStatics(ReflectionToStringBuilderTest.java:49)
+
+test_toString  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_toString(ReflectionToStringBuilderTest.java:8)
+
+test_setExcludeFieldNames  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_setExcludeFieldNames(ReflectionToStringBuilderTest.java:61)
+
+test_setUpToClass  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_setUpToClass(ReflectionToStringBuilderTest.java:67)
+
+test_ReflectionToStringBuilder  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.ReflectionToStringBuilderTest.test_ReflectionToStringBuilder(ReflectionToStringBuilderTest.java:19)
+

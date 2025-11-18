@@ -9,12 +9,6 @@ public class FormatCacheTest {
     }
 
     @Test
-    public void test_getInstance() {
-        // TODO: add assertions for getInstance
-        fail("Not yet implemented");
-    }
-
-    @Test
     public void test_equals() {
         // TODO: add assertions for equals
         fail("Not yet implemented");

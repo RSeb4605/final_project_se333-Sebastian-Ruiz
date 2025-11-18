@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.lang3.time.FormatCacheTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in org.apache.commons.lang3.time.FormatCacheTest
+test_getInstance  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.time.FormatCacheTest.test_getInstance(FormatCacheTest.java:8)
+
+test_hashCode  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.time.FormatCacheTest.test_hashCode(FormatCacheTest.java:20)
+
+test_equals  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.time.FormatCacheTest.test_equals(FormatCacheTest.java:14)
+

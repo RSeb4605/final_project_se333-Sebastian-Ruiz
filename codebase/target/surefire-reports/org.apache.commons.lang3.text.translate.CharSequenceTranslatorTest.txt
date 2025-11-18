@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.lang3.text.translate.CharSequenceTranslatorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in org.apache.commons.lang3.text.translate.CharSequenceTranslatorTest
+test_hex  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.text.translate.CharSequenceTranslatorTest.test_hex(CharSequenceTranslatorTest.java:8)
+

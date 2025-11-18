@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.lang3.builder.IDKeyTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in org.apache.commons.lang3.builder.IDKeyTest
+test_hashCode  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.IDKeyTest.test_hashCode(IDKeyTest.java:8)
+
+test_equals  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.builder.IDKeyTest.test_equals(IDKeyTest.java:14)
+

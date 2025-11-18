@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.lang3.exception.ExceptionContextTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in org.apache.commons.lang3.exception.ExceptionContextTest
+test_setContextValue  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.exception.ExceptionContextTest.test_setContextValue(ExceptionContextTest.java:14)
+
+test_getFormattedExceptionMessage  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.exception.ExceptionContextTest.test_getFormattedExceptionMessage(ExceptionContextTest.java:38)
+
+test_getFirstContextValue  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.exception.ExceptionContextTest.test_getFirstContextValue(ExceptionContextTest.java:26)
+
+test_getContextLabels  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.exception.ExceptionContextTest.test_getContextLabels(ExceptionContextTest.java:32)
+
+test_getContextValues  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.exception.ExceptionContextTest.test_getContextValues(ExceptionContextTest.java:20)
+
+test_addContextValue  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at org.apache.commons.lang3.exception.ExceptionContextTest.test_addContextValue(ExceptionContextTest.java:8)
+

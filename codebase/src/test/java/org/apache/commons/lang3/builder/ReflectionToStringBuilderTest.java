@@ -9,47 +9,10 @@ public class ReflectionToStringBuilderTest {
     }
 
     @Test
-    public void test_toString() {
-        // TODO: add assertions for toString
-        fail("Not yet implemented");
-    }
-
-    @Test
-    public void test_toString() {
-        // TODO: add assertions for toString
-        fail("Not yet implemented");
-    }
-
-    @Test
-    public void test_toString() {
-        // TODO: add assertions for toString
-        fail("Not yet implemented");
-    }
-
-    @Test
-    public void test_toString() {
-        // TODO: add assertions for toString
-        fail("Not yet implemented");
-    }
-
-    @Test
-    public void test_toString() {
-        // TODO: add assertions for toString
-        fail("Not yet implemented");
-    }
-
-    @Test
     public void test_toStringExclude() {
         // TODO: add assertions for toStringExclude
         fail("Not yet implemented");
     }
-
-    @Test
-    public void test_toStringExclude() {
-        // TODO: add assertions for toStringExclude
-        fail("Not yet implemented");
-    }
-
     @Test
     public void test_ReflectionToStringBuilder() {
         // TODO: add assertions for ReflectionToStringBuilder
@@ -104,10 +67,5 @@ public class ReflectionToStringBuilderTest {
         fail("Not yet implemented");
     }
 
-    @Test
-    public void test_toString() {
-        // TODO: add assertions for toString
-        fail("Not yet implemented");
-    }
 
 }
