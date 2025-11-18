@@ -2,7 +2,7 @@
 ---
 mode: "agent"
 tools: [`maven_run`, `configure_jacoco`, `generate_tests`, `analyze_coverage`, `git_status`, `git_add_all`, `git_commit`, `git_push`, `git_pull_request`]
-description: "Lightweight tester agent: use the MCP tools provided by the MCP server to run tests, generate skeletons, analyze coverage, and create patches/PRs when safe."
+description: "Lightweight tester agent: use the MCP tools provided by the MCP server to run tests, generate and implement any TODOs, analyze coverage, and create patches/PRs when safe."
 model: 'Gpt-5 mini'
 ---
 
@@ -17,7 +17,7 @@ Instructions (simple)
   - Inspect Surefire reports under `target/surefire-reports/` for failures.
 
 3. Generate tests for uncovered areas.
-  - Call `generate_tests(project_dir)` to create JUnit skeletons in `src/test/java`.
+  - Call `generate_tests(project_dir)` to create JUnit tests in `src/test/java`.
 
 4. If tests fail, record findings and produce a patch proposal.
   - Collect failures and stack traces.
